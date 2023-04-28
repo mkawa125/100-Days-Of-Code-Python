@@ -1,6 +1,6 @@
 # This is a sample Python script.
 import random
-import module
+import Day4_Randomization.module
 
 # Press ⌃R to execute it or replace it with your code.
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
@@ -20,7 +20,7 @@ random_float = random.random()
 random_uniform = random.uniform(0, 5)
 
 print(random_int)
-print(module.pi)
+print(Day4_Randomization.module.pi)
 print(random_float)
 print(random_uniform)
 
